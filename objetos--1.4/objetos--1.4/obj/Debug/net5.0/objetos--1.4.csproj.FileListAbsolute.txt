@@ -1,0 +1,16 @@
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\bin\Debug\net5.0\objetos--1.4.exe
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\bin\Debug\net5.0\objetos--1.4.deps.json
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\bin\Debug\net5.0\objetos--1.4.runtimeconfig.json
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\bin\Debug\net5.0\objetos--1.4.runtimeconfig.dev.json
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\bin\Debug\net5.0\objetos--1.4.dll
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\bin\Debug\net5.0\ref\objetos--1.4.dll
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\bin\Debug\net5.0\objetos--1.4.pdb
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\obj\Debug\net5.0\objetos--1.4.csproj.AssemblyReference.cache
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\obj\Debug\net5.0\objetos--1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\obj\Debug\net5.0\objetos--1.4.AssemblyInfoInputs.cache
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\obj\Debug\net5.0\objetos--1.4.AssemblyInfo.cs
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\obj\Debug\net5.0\objetos--1.4.csproj.CoreCompileInputs.cache
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\obj\Debug\net5.0\objetos--1.4.dll
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\obj\Debug\net5.0\ref\objetos--1.4.dll
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\obj\Debug\net5.0\objetos--1.4.pdb
+C:\Users\guest01\Desktop\Objetos\objetos--1.4\objetos--1.4\obj\Debug\net5.0\objetos--1.4.genruntimeconfig.cache

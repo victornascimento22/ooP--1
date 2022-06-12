@@ -17,7 +17,7 @@ namespace objetos__1._1
             Console.WriteLine("Departamento : " + funcionario.Departamento);
             Console.WriteLine("Salario : " + funcionario.Salario);
             Console.WriteLine("Data de Entrada : " + funcionario.DatadeEntrada);
-            Console.WriteLine("RG : " + funcionario.RG);
+           
             Console.WriteLine("Atividade : " + funcionario._Admitido);
 
 
